@@ -1,0 +1,7 @@
+﻿  18.12.cpp
+C:\Users\админ\source\repos\18.12\18.12.cpp(102,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  List.cpp
+  Pair.cpp
+  Создание кода...
+C:\Users\админ\source\repos\18.12\Pair.cpp(102): warning C4172: возвращение адреса локальной или временной переменной : res
+  18.12.vcxproj -> C:\Users\админ\source\repos\18.12\Debug\18.12.exe
